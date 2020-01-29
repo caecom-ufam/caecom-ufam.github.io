@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: C.A.E.Com - Centro Acadêmico de Engenharia da Computação - UFAM
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: "Página institucional do C.A.E.Com da UFAM" 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Pedro Matias
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,10 +68,11 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "caecom@ufam.edu.br"
+  facebook: CAECom_UFAM
+  github: caecom-ufam
+  twitter: CAECom_UFAM
+  instagram: caecom_ufam
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -90,10 +91,11 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  instagram: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "caecom-ufam.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -156,10 +158,11 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Manaus"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+#permalink: /:year-:month-:day-:title/
+permalink: /:title/:day-:month-:year-:title/
 paginate: 5
 
 kramdown:
@@ -233,7 +236,8 @@ prose:
           element: "text"
           label: "Date"
           help: "Enter date of post."
-          placeholder: "yyyy-mm-dd"
+          #placeholder: "yyyy-mm-dd"
+          placeholder: "dd-mm-yyyy"
           alterable: true
       - name: "image"
         field:
