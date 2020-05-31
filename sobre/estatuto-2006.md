@@ -5,14 +5,11 @@ tags: [sobre, estatuto]
 comments: false
 ---
 
-![header-estatuto](/assets/images/header-estatuto.png)
 
-[baixe o pdf aqui!](/assets/files/Estatuto_CAECom-2006.pdf)
+[baixar o pdf](/assets/files/Estatuto_CAECom-2006.pdf)
 
-```
-Aprovado em Assembleia Geral dos Estudantes de Engenharia da Computação
-Manaus/AM, 31 de Maio de 2006.
-```
+| ![ufam](/assets/images/ufam_logo.png) | <p>UNIVERSIDADE FEDERAL DO AMAZONAS</p><p>FACULDADE DE TECNOLOGIA</p><p>CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO | ![caecom](/assets/images/caecom-logo.jpeg) |
+|:-------:|:------------------------------------------------------------------------------------------------------------:|:-------:|
 
 ---
 
