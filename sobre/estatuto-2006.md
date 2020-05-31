@@ -2,7 +2,7 @@
 title: Estatuto do CAECOM
 tags: [sobre, estatuto]
 comments: false
-layout: single
+layout: page
 toc: true
 toc_label: "índice"
 toc_icon: "cog"
