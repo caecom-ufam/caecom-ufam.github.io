@@ -11,7 +11,7 @@ toc_icon: "cog"
 {% include law_style.html %}
 
 
-| <img src="/assets/images/ufam_logo.png" alt="ufam" width="60"/> | UNIVERSIDADE FEDERAL DO AMAZONAS<br>FACULDADE DE TECNOLOGIA<br>CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO | <img src="/assets/images/caecom-logo.jpeg" alt="caecom" width="70"/>|
+| <img src="/assets/images/ufam_logo.png" alt="ufam" width="60"/> | UNIVERSIDADE FEDERAL DO AMAZONAS<br>FACULDADE DE TECNOLOGIA<br>CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO| <img src="/assets/images/caecom-logo.jpeg" alt="caecom" width="70"/>|
 |:---:|:-----:|:---:|
 
 
