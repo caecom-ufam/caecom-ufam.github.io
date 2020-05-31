@@ -2,15 +2,14 @@
 layout: splash
 title: Estatuto do CAECOM
 tags: [sobre, estatuto]
-date: 2017-11-29
 comments: false
 ---
 
 FACULDADE DE TECNOLOGIA
-CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
-_____________________________________________
 
-e-mail: caecom@ufam.edu.br 
+CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
+==================================================
+
 
 ## ESTATUTO
 
@@ -56,26 +55,13 @@ faculdade de Engenharia da Computação, salvo manifestação em contrário, atr
 documento encaminhado a diretoria do C.A.E.Com.
 
 Art. 6º – São direitos dos sócios:
-
-```
 a. Votar e ser votado nas eleições do C.A.E.Com;
-```
-
-FACULDADE DE TECNOLOGIA
-CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
-_________________________________________________________
-
-e-mail: caecom@ufam.edu.br fone: (92) 8261 - 2016
-
-```
 b. Dirigir-se ao C.A.E.Com para cuidar de seus interesses e de todos os que
 recorrerem a este regimento.
 c. Utilizar-se do espaço e estrutura do C.A.E.Com e zelar pelo patrimônio;
 d. Ter acesso aos livros e documentos do C.A.E.Com;
-```
-Art. 7º – São deveres do sócios:
 
-```
+Art. 7º – São deveres do sócios:
 a. Cumprir e fazer cumprir o presente regimento, bem como as deliberações
 das instâncias do C.A.E.Com;
 b. Levar ao conhecimento do C.A.E.Com fatos que devem ser por ele
@@ -85,7 +71,7 @@ d. Trabalhar para o estreitamento de laços de fraternidade da comunidade
 acadêmica;
 e. Exercer com dedicação e espírito de luta a função de que tenha sido
 investido.
-```
+
 Art. 8º - Penalidades aos associados:
 
 Os associados que desrespeitarem o disposto no art. 7 º, salvo a letra (a), poderão perder
@@ -93,7 +79,7 @@ a condição de associado quando:
 a. A acusação for feita por outros associados à diretoria e,
 b. For concedida pela Assembleia Geral.
 
-Art. 9 º – O associado terá direito de resposta e defesa de sua acusação;
+Art. 9º – O associado terá direito de resposta e defesa de sua acusação;
 
 Seção 2 **–** Do patrimônio
 
@@ -111,15 +97,6 @@ c. Renda auferida em seus empreendimentos, caso haja.
 ## DOS PRINCÍPIOS E FINALIDADES
 
 Art. 12 – O C.A.E.Com tem como princípios e finalidades:
-
-
-FACULDADE DE TECNOLOGIA
-CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
-_________________________________________________________
-
-e-mail: caecom@ufam.edu.br fone: (92) 8261 - 2016
-
-```
 a. Defender e atender os interesses do corpo discente do curso de Engenharia
 da Computação, seja coletivamente ou individualmente;
 b. Organizar reuniões e certames de caráter cívico, social, cultural e técnico
@@ -135,7 +112,7 @@ f. Cooperar com os movimentos populares e entidades democráticas, em
 conformidade com este estatuto, na prestação de serviço a sociedade.
 g. Fazer-se presente em reuniões, eventos relacionados ao movimento
 estudantil.
-```
+
 Parágrafo Único: Ao C.A.E.Com é vedado exercer atividades ou fazer quaisquer
 manifestações sectárias, bem como promover ou apoiar movimentos que não visem a
 obediência dos princípios básicos dos DIRETOS HUMANOS.
@@ -157,23 +134,12 @@ f. Diretor de Tecnologia;
 g. Diretor de Relações Públicas;
 
 Art. 14 - O C.A.E.Com terá um conselho fiscal:
-
-```
 a. Jurídico;
 b. Administrativa;
 c. Financeiro.
-```
+
 Art. 15 – São atribuições da diretoria:
 a. traçar as diretrizes do plano de ação anual do C.A.E.Com;
-
-
-FACULDADE DE TECNOLOGIA
-CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
-_________________________________________________________
-
-e-mail: caecom@ufam.edu.br fone: (92) 8261 - 2016
-
-```
 b. reunir-se em caráter ordinário, uma vez por mês;
 c. reunir-se em caráter extraordinário sempre que necessário através da
 convocação do Presidente;
@@ -182,7 +148,7 @@ e. zelar pela estrita observância desse regimento;
 f. elaborar anualmente o relatório e a prestação de contas do C.A.E.Com;
 g. orientar a ação estudantil de acordo com este regulamento;
 h. promover Seminários ou Debates sobre temas pertinentes ao curso.
-```
+
 Art. 16 – Compete ao Presidente
 a. Presidir as seções de Assembleia Geral e da Diretoria;
 b. articular as diretorias;
@@ -221,14 +187,6 @@ financeira.
 
 Art. 20 – Compete ao Diretor de Cultura e Lazer
 a. coordenar todas as atividades culturais do C.A.E.Com
-
-
-FACULDADE DE TECNOLOGIA
-CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
-_________________________________________________________
-
-e-mail: caecom@ufam.edu.br fone: (92) 8261 - 2016
-
 - recepção aos calouros;
 - semana de engenharia da computação;
 - encerramento do período e natal.
@@ -275,13 +233,6 @@ membros presentes.
 Art. 25 - O mandato para os cargos da Diretoria Executiva, terá duração de 01 (um)
 ano.
 
-
-FACULDADE DE TECNOLOGIA
-CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
-_________________________________________________________
-
-e-mail: caecom@ufam.edu.br
-
 Art. 26 - Perderá o mandato qualquer membro que:
 a. Faltar sem justificativa a quatro reuniões consecutivas ou cinco alternadas
 sem aviso prévio;
@@ -326,13 +277,6 @@ receptora de votos, inclusive para acompanhar a apuração de votos.
 Parágrafo Único – A indicação do fiscal deverá ser feita com o mínimo de 48(quarenta
 e oito) horas de antecedência a comissão eleitoral com os documentos necessários à
 eleição.
-
-
-FACULDADE DE TECNOLOGIA
-CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
-_________________________________________________________
-
-e-mail: caecom@ufam.edu.br fone: (92) 8261 - 2016
 
 Art. 33 – Terminada a eleição, a mesa receptora passará à apuração, devendo o
 Presidente encaminhar ao chefe do departamento, dentro de 24 horas, a cópia da Ata da
@@ -381,19 +325,12 @@ quando estiverem presentes 2/3 dos seus membros.
 b. A Assembleia Geral Extraordinária realizar-se-á em segunda convocação
 com a metade de seus membros.
 
-
-FACULDADE DE TECNOLOGIA
-CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
-_________________________________________________________
-
-e-mail: caecom@ufam.edu.br fone: (92) 8261 - 2016
-
-```
 c. Realizar-se-á em terceira convocação, independente do número de membros
 presentes.
 d. Entre cada uma das convocações a que se refere o parágrafo acima, haverá
 um espaço de tempo de 30(trinta) minutos.
-```
+
+
 Art. 43 – As resoluções das assembleias geral ordinária, extraordinária e solene serão
 aprovadas por maioria simples dos membros presentes.
 
@@ -434,18 +371,9 @@ Art. 50 – São fontes de receita:
 a. contribuição dos alunos a ser decidida em Assembleia Geral;
 b. auxilio dos poderes públicos, incluindo a própria FT;
 c. donativos de participantes;
-
-
-FACULDADE DE TECNOLOGIA
-CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
-_________________________________________________________
-
-e-mail: caecom@ufam.edu.br fone: (92) 8261 - 2016
-
-```
 d. renda própria proveniente da prestação de serviços ou de qualquer outro
 tipo de iniciativa neste regimento.
-```
+
 Parágrafo Único – O auxílio dos poderes públicos e os donativos particulares serão
 entregues diretamente a Diretoria do C.A.E.Com.
 
