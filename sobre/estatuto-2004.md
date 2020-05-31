@@ -2,14 +2,11 @@
 layout: single
 title: Estatuto do CAECOM
 tags: [sobre, estatuto]
+image:/assets/images/header-estatuto.png
 comments: false
 ---
 
-```
-UNIVERSIDADE FEDERAL DO AMAZONAS
-FACULDADE DE TECNOLOGIA
-CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
-```
+
 Aprovado em Assembleia Geral dos Estudantes de Engenharia da Computação
 Manaus/AM, 31 de Maio de 2006.
 
