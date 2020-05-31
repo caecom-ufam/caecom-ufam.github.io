@@ -8,7 +8,7 @@ layout: single
 {% include law_style.html %}
 
 
-[baixar o pdf](/assets/files/Estatuto_CAECom-2006.pdf)
+> [baixar o pdf](/assets/files/Estatuto_CAECom-2006.pdf)
 
 | <img src="/assets/images/ufam_logo.png" width="30%"> | UNIVERSIDADE FEDERAL DO AMAZONAS<br>FACULDADE DE TECNOLOGIA<br>CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO | <img src="/assets/images/caecom-logo.jpeg" width="30%"> |
 |:-------:|:----------------------------------------------------------------------------------:|:-------:|
