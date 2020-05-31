@@ -1,14 +1,18 @@
 ---
-layout: splash
+layout: single
 title: Estatuto do CAECOM
 tags: [sobre, estatuto]
 comments: false
 ---
 
+```
+UNIVERSIDADE FEDERAL DO AMAZONAS
 FACULDADE DE TECNOLOGIA
-
 CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
-==================================================
+```
+Aprovado em Assembleia Geral dos Estudantes de Engenharia da Computação
+Manaus/AM, 31 de Maio de 2006.
+---
 
 
 ## ESTATUTO
@@ -403,7 +407,7 @@ convocada para este fim, ficando revogado as disposições encontradas.
 Art. 55 – Revogam-se as disposições em contrario.
 
 ```
-Aprovada em Assembleia Geral dos Estudantes de Engenharia da Computação
+Aprovado em Assembleia Geral dos Estudantes de Engenharia da Computação
 Manaus/AM, 31 de Maio de 2006.
 ```
 
