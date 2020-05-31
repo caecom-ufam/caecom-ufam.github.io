@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Sobre o C.A.E.Com
 tags: [caecom, informações]
 date: 2020-01-20
