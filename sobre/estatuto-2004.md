@@ -2,9 +2,10 @@
 layout: single
 title: Estatuto do CAECOM
 tags: [sobre, estatuto]
-image:/assets/images/header-estatuto.png
 comments: false
 ---
+
+![header-estatuto](/assets/images/header-estatuto.png)
 
 
 Aprovado em Assembleia Geral dos Estudantes de Engenharia da Computação
