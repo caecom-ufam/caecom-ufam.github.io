@@ -11,21 +11,13 @@ toc_icon: "cog"
 {% include law_style.html %}
 
 
-
 | <img src="/assets/images/ufam_logo.png" alt="ufam" width="60"/> | UNIVERSIDADE FEDERAL DO AMAZONAS | <img src="/assets/images/caecom-logo.jpeg" alt="caecom" width="70"/>|
 |:---:|:-----:|:---:|
 ||FACULDADE DE TECNOLOGIA||
 ||CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO||
-</h1>
 
-{:.no_toc}
 
-## Sumário
 
-* Vai ser substituído pelo Sumário, excluindo os cabeçalhos com .no_toc
-{:toc}
-
-{:.no_toc}
 
 ---
 
