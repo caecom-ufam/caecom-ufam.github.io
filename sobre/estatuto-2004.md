@@ -13,7 +13,6 @@ CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
 Aprovado em Assembleia Geral dos Estudantes de Engenharia da Computação
 Manaus/AM, 31 de Maio de 2006.
 
-
 ---
 
 
@@ -54,7 +53,7 @@ Art. 4 º - São elementos da entidade:
 a. Seus sócios.
 b. Seu patrimônio.
 
-**Seção 1 - Dos sócios:
+**Seção 1 - Dos sócios:**
 
 Art. 5 º – A filiação dos estudantes dar-se-á automaticamente a partir de seu ingresso na
 faculdade de Engenharia da Computação, salvo manifestação em contrário, através de
@@ -87,7 +86,7 @@ b. For concedida pela Assembleia Geral.
 
 Art. 9º – O associado terá direito de resposta e defesa de sua acusação;
 
-**Seção 2 **–** Do patrimônio
+**Seção 2 – Do patrimônio**
 
 Art. 10 - O patrimônio da entidade é constituído pelos bens móveis e imóveis que
 possui ou venha a possuir, cujos rendimentos serão aplicados na satisfação dos seus
