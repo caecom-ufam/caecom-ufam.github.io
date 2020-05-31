@@ -9,7 +9,7 @@ layout: single
 
 
 
-| <img src="/assets/images/ufam_logo.png" width="30%"> | <p> UNIVERSIDADE FEDERAL DO AMAZONAS<br>FACULDADE DE TECNOLOGIA<br>CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO</p> | <img src="/assets/images/caecom-logo.jpeg" width="30%"> |
+| <img src="/assets/images/ufam_logo.png" alt="ufam" width="50"/> | UNIVERSIDADE FEDERAL DO AMAZONAS<br>FACULDADE DE TECNOLOGIA<br>CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO| <img src="/assets/images/caecom-logo.jpeg" alt="caecom" width="50"/> |
 |:-------:|:----------------------------------------------------------------------------------:|:-------:|
 
 
@@ -17,6 +17,7 @@ layout: single
 
 ## Sumário
 
+* Vai ser substituído pelo Sumário, excluindo os cabeçalhos com .no_toc
 {:toc}
 
 {:.no_toc}
