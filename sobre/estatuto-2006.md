@@ -7,9 +7,12 @@ comments: false
 
 ![header-estatuto](/assets/images/header-estatuto.png)
 
+[baixe o pdf aqui!](/assets/files/Estatuto_CAECom-2006.pdf)
 
+```
 Aprovado em Assembleia Geral dos Estudantes de Engenharia da Computação
 Manaus/AM, 31 de Maio de 2006.
+```
 
 ---
 
