@@ -7,6 +7,8 @@ author_profile: true
 comments: false
 ---
 
+<br>
+
 Aprovado no dia 4 de julho de 2003 através da Resolução n. 031/2003/CONSEPE, o Curso de Graduação em Engenharia da Computação da Faculdade de Tecnologia da Universidade Federal do Amazonas, homologado pela Resolução n. 013/2003/CONSUNI em 6 de novembro de 2003, tem por finalidade formar profissional capaz de atuar na concepção, planejamento, execução e controle de sistemas de computação; consultoria; assessoria; ensino e pesquisa.
 
 O Engenheiro da Computação é um profissional da Engenharia capaz de projetar, desenvolver e implantar sistemas integrados de hardware e de software, de ferramentas para sua utilização, e de soluções finais para usuários de sistemas computacionais, que hoje permeiam quase todas as áreas de trabalho e profissões. Assim, o Engenheiro da Computação poderá atuar, no desenvolvimento de produtos, aplicações e serviços, em empresas ou indústrias usuárias de informática, grupos financeiros, centros de pesquisa e desenvolvimento, universidades, estabelecimentos de ensino e nos serviços públicos.
