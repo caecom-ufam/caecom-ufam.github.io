@@ -3,15 +3,20 @@ title: Estatuto do CAECOM
 tags: [sobre, estatuto]
 comments: false
 layout: single
+toc: true
+toc_label: "índice"
+toc_icon: "cog"
 
 ---
 {% include law_style.html %}
 
 
 
-| <img src="/assets/images/ufam_logo.png" alt="ufam" width="50"/> | UNIVERSIDADE FEDERAL DO AMAZONAS<br>FACULDADE DE TECNOLOGIA<br>CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO| <img src="/assets/images/caecom-logo.jpeg" alt="caecom" width="50"/> |
-|:-------:|:----------------------------------------------------------------------------------:|:-------:|
-
+| <img src="/assets/images/ufam_logo.png" alt="ufam" width="60"/> | UNIVERSIDADE FEDERAL DO AMAZONAS | <img src="/assets/images/caecom-logo.jpeg" alt="caecom" width="70"/>|
+|:---:|:-----:|:---:|
+||FACULDADE DE TECNOLOGIA||
+||CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO||
+</h1>
 
 {:.no_toc}
 
