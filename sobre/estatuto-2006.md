@@ -21,9 +21,6 @@ toc_icon: "cog"
 ---
 
 
-
-# ESTATUTO
-
 ## TÍTULO I
 
 ## DAS DISPOSIÇÕES PRELIMINARES
