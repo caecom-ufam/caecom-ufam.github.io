@@ -8,7 +8,6 @@ layout: single
 {% include law_style.html %}
 
 
-> [baixar o pdf](/assets/files/Estatuto_CAECom-2006.pdf)
 
 | <img src="/assets/images/ufam_logo.png" width="30%"> | <p> UNIVERSIDADE FEDERAL DO AMAZONAS<br>FACULDADE DE TECNOLOGIA<br>CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO</p> | <img src="/assets/images/caecom-logo.jpeg" width="30%"> |
 |:-------:|:----------------------------------------------------------------------------------:|:-------:|
@@ -421,4 +420,6 @@ Art. 55 – Revogam-se as disposições em contrario.
 Aprovado em Assembleia Geral dos Estudantes de Engenharia da Computação
 Manaus/AM, 31 de Maio de 2006.
 ```
+
+> [baixar o pdf](/assets/files/Estatuto_CAECom-2006.pdf)
 
