@@ -12,18 +12,20 @@ CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
 ```
 Aprovado em Assembleia Geral dos Estudantes de Engenharia da Computação
 Manaus/AM, 31 de Maio de 2006.
+
+
 ---
 
 
-## ESTATUTO
+# ESTATUTO
 
 ## TÍTULO I
 
 ## DAS DISPOSIÇÕES PRELIMINARES
 
-## CAPITULO I
+### CAPITULO I
 
-## DA INSTITUIÇÃO
+### DA INSTITUIÇÃO
 
 Art. 1 º – O Centro Acadêmico de Engenharia da Computação fundado em 22 de Abril
 de 2004, sociedade civil é um órgão de associação, representação e coordenação dos
@@ -44,15 +46,15 @@ Art. 3 º – C.A.E.Com é entidade livre, subordinado aos estudantes de Engenha
 Computação, sem atrelamento a grupos político econômicos, político partidário e
 religioso.
 
-## CAPITULO II
+### CAPITULO II
 
-## DOS ELEMENTOS DA ENTIDADE
+### DOS ELEMENTOS DA ENTIDADE
 
 Art. 4 º - São elementos da entidade:
 a. Seus sócios.
 b. Seu patrimônio.
 
-Seção 1 - Dos sócios:
+**Seção 1 - Dos sócios:
 
 Art. 5 º – A filiação dos estudantes dar-se-á automaticamente a partir de seu ingresso na
 faculdade de Engenharia da Computação, salvo manifestação em contrário, através de
@@ -85,7 +87,7 @@ b. For concedida pela Assembleia Geral.
 
 Art. 9º – O associado terá direito de resposta e defesa de sua acusação;
 
-Seção 2 **–** Do patrimônio
+**Seção 2 **–** Do patrimônio
 
 Art. 10 - O patrimônio da entidade é constituído pelos bens móveis e imóveis que
 possui ou venha a possuir, cujos rendimentos serão aplicados na satisfação dos seus
@@ -96,9 +98,9 @@ a. Auxílios e subvenções;
 b. Doações e legados;
 c. Renda auferida em seus empreendimentos, caso haja.
 
-## CAPITULO II
+### CAPITULO II
 
-## DOS PRINCÍPIOS E FINALIDADES
+### DOS PRINCÍPIOS E FINALIDADES
 
 Art. 12 – O C.A.E.Com tem como princípios e finalidades:
 a. Defender e atender os interesses do corpo discente do curso de Engenharia
@@ -123,9 +125,9 @@ obediência dos princípios básicos dos DIRETOS HUMANOS.
 
 ## TÍTULO II
 
-## CAPÍTULO I
+### CAPÍTULO I
 
-## ORGANIZAÇÃO E ATRIBUIÇÕES
+### ORGANIZAÇÃO E ATRIBUIÇÕES
 
 Art. 13 – O C.A.E.Com terá suas atividades administradas por uma diretoria composta
 dos seguintes membros:
@@ -230,9 +232,9 @@ membros;.
 Parágrafo Único – As deliberações da Diretoria serão tomadas pela maioria dos
 membros presentes.
 
-## CAPÍTULO II
+### CAPÍTULO II
 
-## DOS MANDATOS E SUBSTITUIÇÕES
+### DOS MANDATOS E SUBSTITUIÇÕES
 
 Art. 25 - O mandato para os cargos da Diretoria Executiva, terá duração de 01 (um)
 ano.
@@ -252,9 +254,9 @@ ela, nomear um substituto para o cargo vago.
 
 ## TÍTULO III
 
-## CAPÍTULO I
+### CAPÍTULO I
 
-## DAS ELEIÇÕES
+### DAS ELEIÇÕES
 
 Art. 28 – A Diretoria do C.A.E.Com e conselho fiscal será eleita por votação a que
 terão acesso todos os alunos regularmente matriculados no curso de Engenharia da
@@ -299,9 +301,9 @@ Art. 36 – O mandato dos membros da coordenadoria e conselho fiscal terá inici
 posse solene, com a presença de todos os alunos do curso de Engenharia da
 Computação, no último dia de mandato da Diretoria e conselho vigente;
 
-## CAPÍTULO I
+### CAPÍTULO I
 
-## DA ASSEMBLEIA GERAL
+### DA ASSEMBLEIA GERAL
 
 Art. 37 - Da natureza da Assembleia Geral:
 a. Ordinária;
