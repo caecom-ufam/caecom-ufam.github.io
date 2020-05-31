@@ -5,6 +5,11 @@ tags: [curso, engenharia, graduação]
 date: 2020-01-20
 author_profile: true
 comments: false
+header:
+  #overlay_color: "#000"
+  #overlay_filter: "0.5"
+  overlay_image: /assets/images/frank-wyllys-cabral-lira-gTx_i_P3nNM-unsplash.jpg
+  caption: "Photo credit: [**Frank Wyllys Cabral Lira**](https://unsplash.com/photos/gTx_i_P3nNM)"
 ---
 
 <br>
