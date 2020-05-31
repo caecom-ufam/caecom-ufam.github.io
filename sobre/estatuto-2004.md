@@ -1,6 +1,14 @@
+---
+layout: splash
+title: Estatuto do CAECOM
+tags: [sobre, estatuto]
+date: 2017-11-29
+comments: false
+---
+
 FACULDADE DE TECNOLOGIA
 CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO
-_________________________________________________________
+_____________________________________________
 
 e-mail: caecom@ufam.edu.br 
 
