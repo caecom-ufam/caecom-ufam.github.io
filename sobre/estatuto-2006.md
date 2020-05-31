@@ -1,8 +1,11 @@
 ---
-layout: single
 title: Estatuto do CAECOM
 tags: [sobre, estatuto]
 comments: false
+layout: splash
+classes:
+  - landing
+  - dark-theme
 ---
 
 
