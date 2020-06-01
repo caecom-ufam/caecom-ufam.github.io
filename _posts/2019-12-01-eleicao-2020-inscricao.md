@@ -1,6 +1,7 @@
 ---
 title: "Eleições para gestão 2020 - Inscrições das chapas "
 excerpt_separator: "<!--more-->"
+date: 2019-12-01
 categories:
   - Post Formats
 tags:
