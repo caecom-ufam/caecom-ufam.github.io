@@ -6,7 +6,7 @@ categories:
 tags:
   - eleição
   - caecom
-  - 2019
+  - chapa
 ---
 
 Prezados Colegas,
