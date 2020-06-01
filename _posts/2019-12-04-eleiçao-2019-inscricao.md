@@ -34,3 +34,8 @@ Plano de Trabalho (propostas).
 7. Questões omissas serão decididas pela comissão eleitoral.
 
 8. A Posse da nova diretoria será realizada no dia 28 de Janeiro de 2019 com horário e local a ser definido
+
+Atenciosamente,
+
+Comissão Eleitoral
+
