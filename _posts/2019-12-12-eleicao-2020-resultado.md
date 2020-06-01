@@ -11,7 +11,7 @@ tags:
 
 Bom dia a todos,
 
-É com muito prazer que venho informar os vencedores da eleição do Caecom! Parabéns à **chapa Turing** por obter mais de 60% dos votos válidos. Que vocês a partir de agora representem os interesses do curso com maestria e responsabilidade.
+É com muito prazer que venho informar os vencedores da eleição do Caecom! Parabéns à [**chapa Turing**](https://www.instagram.com/chapa.turing/) por obter mais de 60% dos votos válidos. Que vocês a partir de agora representem os interesses do curso com maestria e responsabilidade.
 
 ![resultado](/assets/images/2019/eleicao-2019.jpeg)
 
