@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Sobre o C.A.E.Com
+title: "Sobre o C.A.E.Com"
 tags: [caecom, informações]
 date: 2020-01-20
 author_profile: true
