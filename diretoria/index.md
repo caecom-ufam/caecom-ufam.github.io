@@ -38,7 +38,7 @@ A chapa Turing elaborou propostas dentro da realidade vivida pelos alunos e que 
 - [X] Promover atividades que visem melhorar a saúde mental e fisíca dos alunos, além de divulgação de informativos com relação a Saúde (vacinação, consultas a psicólogos, esportes e etc);
 - [ ] Maior participação e estímulo dos estudantes do curso nas atividades esportivas da Universidade, por exemplo, o JUUFAM.
 
-#### Dentro da área de Comunicação, a chapa Turing se propõe a: • Aproximar-se das coordenações do Departamento de Eletrônica e Computação (DTEC) e do Instituto de Computação (IComp), com o objetivo de aumentar as conexões e fortalecer laços;
+#### Dentro da área de Comunicação, a chapa Turing se propõe a:
 - [X] Articular parceiras com outros Centros Acadêmicos da FT e do Icomp para realização de atividades conjuntas e cobrança de interesses estudantis, como sobre os serviços prestados pela Universidade;
 - [X] Divulgar informes com mais frequência em diversos canais de comunicação (Instagram, WhatsApp, Facebook e Slack) sobre os processos e articulações do DTEC e do IComp; • Participar ativamente em redes sociais, compartilhando todas as realizações relevantes do CAECOM;
 - [X] Divulgar vagas de estágio com empresas interessadas nos alunos do curso.
