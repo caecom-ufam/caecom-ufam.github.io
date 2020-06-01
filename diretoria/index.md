@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Gestão 2020 do C.A.E.Com
+title: "Gestão 2020 do C.A.E.Com"
 tags: [diretoria, chapa, caecom]
 date: 2020-01-01
 author_profile: false
