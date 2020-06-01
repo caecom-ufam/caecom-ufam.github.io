@@ -1,5 +1,5 @@
 ---
-title: "Eleções 2019 - Inscrições das chapas "
+title: "Eleições para gestão 2019 - Inscrições das chapas "
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
