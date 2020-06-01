@@ -1,11 +1,13 @@
 ---
 title: Estatuto do CAECOM
 tags: [sobre, estatuto]
-comments: false
+comments: true
 layout: single
 toc: true
 toc_label: "índice"
 toc_icon: "cog"
+author_profile: true
+
 
 ---
 {% include law_style.html %}
