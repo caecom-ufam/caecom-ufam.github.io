@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "contrast" #"aqua" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "pt-BR"
+locale                   : "pt_BR"
 #locale                   : "en-US"
 title                    : "C.A.E.Com - UFAM"
 title_separator          : "-"
