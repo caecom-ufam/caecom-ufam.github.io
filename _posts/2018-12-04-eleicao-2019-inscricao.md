@@ -1,6 +1,7 @@
 ---
 title: "Eleições para gestão 2019 - Inscrições das chapas "
 excerpt_separator: "<!--more-->"
+date: 2018-12-04
 categories:
   - Post Formats
 tags:
