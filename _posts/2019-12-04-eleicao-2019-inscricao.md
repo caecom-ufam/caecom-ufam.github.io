@@ -23,9 +23,9 @@ Plano de Trabalho (propostas).
 
 3. A eleição será no dia 17 de dezembro de 2018, de 08:00h às 15:00h.
   
-4.A eleição será online, com link a ser disponibilizado no dia da eleição.
+4. A eleição será online, com link a ser disponibilizado no dia da eleição.
 
-4.1. Somente poderá votar o aluno que  fizer o upload da Declaração de Matrícula Institucional; esse documento pode ser obtido no PORTAL E-CAMPUS, por meio do menu CONSULTAS E RELATÓRIOS->MATRÍCULA INSTITUCIONAL. A ausência desse documento implicará na anulação do voto.
+  - Somente poderá votar o aluno que  fizer o upload da Declaração de Matrícula Institucional; esse documento pode ser obtido no PORTAL E-CAMPUS, por meio do menu CONSULTAS E RELATÓRIOS->MATRÍCULA INSTITUCIONAL. A ausência desse documento implicará na anulação do voto.
 
 5. A apuração dos votos será realizada logo após o encerramento da eleição.
 
@@ -37,5 +37,5 @@ Plano de Trabalho (propostas).
 
 Atenciosamente,
 
-Comissão Eleitoral
+_Comissão Eleitoral_
 
