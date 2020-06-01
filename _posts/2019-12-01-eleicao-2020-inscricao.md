@@ -15,9 +15,9 @@ Informamos a todos que na próxima quarta-feira ocorrerão as eleições para os
 
 1. Formar uma Chapa.
 
-2. Registrar a chapa preenchendo o "Modelo de Candidatura". Disponivel no link: https://docs.google.com/document/d/11F_j1FJ2CJ51vdkU0WGUwxqK7WxQHK-ubdp2cNoYRrI/edit?usp=sharing
+2. Registrar a chapa preenchendo o "Modelo de Candidatura". Disponivel no link: [modelo de candidatura](https://docs.google.com/document/d/11F_j1FJ2CJ51vdkU0WGUwxqK7WxQHK-ubdp2cNoYRrI/edit?usp=sharing)
 
-3. Enviar o arquivo preenchido para o email: *comissaoeleitoralbgh@gmail.com*
+3. Enviar o arquivo preenchido para o email: *[comissaoeleitoralbgh@gmail.com](comissaoeleitoralbgh@gmail.com)*
 Ficará aberto o prazo de uma semana para o registro das chapas, contados da data de publicação deste aviso, prazo em que os interessados deverão enviar o arquivo.
  
 Os membros responsáveis pelo processo eleitoral são:
