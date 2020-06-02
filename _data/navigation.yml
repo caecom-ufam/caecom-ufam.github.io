@@ -1,7 +1,7 @@
 # main links
 main:
 # Site navigation links
-- title: "Sobre"
+- title: "Institucional"
   url: /sobre/
   #icon: fas fa-fw fa-info
 - title: "Curso"
