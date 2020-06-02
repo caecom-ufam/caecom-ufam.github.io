@@ -15,7 +15,7 @@ main:
   url: /links/
   #icon: far fa-fw fa-bookmark
 - title: "Contato"
-  url: /contato/
+  url: https://forms.gle/cEpcHsrxjn9QDhwb6
   #icon: fas fa-fw fa-address-book
 
   # - title: "About"

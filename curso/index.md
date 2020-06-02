@@ -36,9 +36,13 @@ O curso de Engenharia da Computação, implantado na Faculdade de Tecnologia, vi
 
 
 
+
 # Diagrama do curso
 
  [<i class="fas fa-bookmark"></i> DIAGRAMA DE MATÉRIAS]({{ site.url }}/assets/images/diagrama-materias.jpeg){: .btn}
 
 # Ementas das matérias
  [<i class="fas fa-file-alt"></i> EMENTAS]({{ site.url }}/curso/ementas/){: .btn}
+
+# Página institucional da Faculdade de Tecnologia
+  [<i class="fas fa-bookmark"></i> Página da FT]({{ site.url }}https://ft.ufam.edu.br){: .btn}
