@@ -3,7 +3,7 @@ title: "Eleições para gestão 2020 - Inscrições das chapas "
 excerpt_separator: "<!--more-->"
 date: 2019-12-01
 categories:
-  - Post Formats
+  - Post
 tags:
   - eleição
   - caecom
@@ -20,11 +20,11 @@ Informamos a todos que na próxima quarta-feira ocorrerão as eleições para os
 
 3. Enviar o arquivo preenchido para o email: *[comissaoeleitoralbgh@gmail.com](comissaoeleitoralbgh@gmail.com)*
 Ficará aberto o prazo de uma semana para o registro das chapas, contados da data de publicação deste aviso, prazo em que os interessados deverão enviar o arquivo.
- 
+
 Os membros responsáveis pelo processo eleitoral são:
 
 - Evaldo Patrik dos Santos Cardoso
-- Caio Arthur Sales Telles 
+- Caio Arthur Sales Telles
 - Luis de Gonzaga Mota Pinto Filho
 
 [<i class="fas fa-file-alt"></i> ESTATUTO DO CAECOM]({{ site.url }}/sobre/estatuto-2006/){: .btn}

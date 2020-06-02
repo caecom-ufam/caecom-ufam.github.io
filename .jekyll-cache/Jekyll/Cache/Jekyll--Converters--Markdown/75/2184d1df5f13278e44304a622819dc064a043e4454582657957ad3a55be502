@@ -1,0 +1,432 @@
+I"H<style type="text/css">
+    counter-reset: elementcounter;
+    /* ol { list-style-type: decimal; } */
+  
+    ol, li {
+        list-style-type: none;
+    }
+
+    div > ol > li:before {
+        content: "Art. " counter(elementcounter) "º. ";
+        counter-increment: elementcounter;
+        font-weight: bold;
+    }
+
+    div > ol { list-style-type: none }
+
+    div > ol ol { list-style-type: upper-roman; }
+
+    div > ol ol ol { list-style-type: lower-roman; }  
+    div {
+        counter-reset: elementcounter;
+    }
+</style>
+
+<table style="width:110%">
+  <tr>
+    <th><img src="/assets/images/ufam_logo.png" alt="ufam" width="50" /></th>
+    <th>UNIVERSIDADE FEDERAL DO AMAZONAS<br />FACULDADE DE TECNOLOGIA<br />CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO</th>
+    <th><img src="/assets/images/logo-CAECOM.png" alt="caecom" width="110" /></th>
+  </tr>
+ </table>
+
+<hr />
+
+<h2 id="título-i">TÍTULO I</h2>
+
+<h2 id="das-disposições-preliminares">DAS DISPOSIÇÕES PRELIMINARES</h2>
+
+<h3 id="capitulo-i">CAPITULO I</h3>
+
+<h3 id="da-instituição">DA INSTITUIÇÃO</h3>
+
+<p>Art. 1 º – O Centro Acadêmico de Engenharia da Computação fundado em 22 de Abril
+de 2004, sociedade civil é um órgão de associação, representação e coordenação dos
+estudantes de Engenharia da Computação da Universidade Federal do Amazonas.</p>
+
+<p>§1º – O Centro Acadêmico de Engenharia da Computação, a seguir denominado
+C.A.E.Com, é pessoa jurídica definitiva e goza de autonomia administrativa, financeira
+e disciplinar.</p>
+
+<p>§ 2º – Toda ação efetuada em nome deste Estatuto e de conformidade com suas
+cláusulas provém do poder delegado pelos estudantes e em seu nome será exercido.</p>
+
+<p>Art. 2 º – O C.A.E.Com é de duração indeterminada, sem fins lucrativos tendo sede e
+foro na cidade de Manaus - AM, sito á rua Gen. Rodrigo Ótavio Jordão Ramos, nº 300-
+Campus Universitário na Faculdade de Tecnologia – FT.</p>
+
+<p>Art. 3 º – C.A.E.Com é entidade livre, subordinado aos estudantes de Engenharia da
+Computação, sem atrelamento a grupos político econômicos, político partidário e
+religioso.</p>
+
+<h3 id="capitulo-ii">CAPITULO II</h3>
+
+<h3 id="dos-elementos-da-entidade">DOS ELEMENTOS DA ENTIDADE</h3>
+
+<p>Art. 4 º - São elementos da entidade:
+a. Seus sócios.
+b. Seu patrimônio.</p>
+
+<p><strong>Seção 1 - Dos sócios:</strong></p>
+
+<p>Art. 5 º – A filiação dos estudantes dar-se-á automaticamente a partir de seu ingresso na
+faculdade de Engenharia da Computação, salvo manifestação em contrário, através de
+documento encaminhado a diretoria do C.A.E.Com.</p>
+
+<p>Art. 6º – São direitos dos sócios:
+a. Votar e ser votado nas eleições do C.A.E.Com;
+b. Dirigir-se ao C.A.E.Com para cuidar de seus interesses e de todos os que
+recorrerem a este regimento.
+c. Utilizar-se do espaço e estrutura do C.A.E.Com e zelar pelo patrimônio;
+d. Ter acesso aos livros e documentos do C.A.E.Com;</p>
+
+<p>Art. 7º – São deveres do sócios:
+a. Cumprir e fazer cumprir o presente regimento, bem como as deliberações
+das instâncias do C.A.E.Com;
+b. Levar ao conhecimento do C.A.E.Com fatos que devem ser por ele
+apreciados;
+c. Zelar pelo patrimônio moral e material da entidade;
+d. Trabalhar para o estreitamento de laços de fraternidade da comunidade
+acadêmica;
+e. Exercer com dedicação e espírito de luta a função de que tenha sido
+investido.</p>
+
+<p>Art. 8º - Penalidades aos associados:</p>
+
+<p>Os associados que desrespeitarem o disposto no art. 7 º, salvo a letra (a), poderão perder
+a condição de associado quando:
+a. A acusação for feita por outros associados à diretoria e,
+b. For concedida pela Assembleia Geral.</p>
+
+<p>Art. 9º – O associado terá direito de resposta e defesa de sua acusação;</p>
+
+<p><strong>Seção 2 – Do patrimônio</strong></p>
+
+<p>Art. 10 - O patrimônio da entidade é constituído pelos bens móveis e imóveis que
+possui ou venha a possuir, cujos rendimentos serão aplicados na satisfação dos seus
+encargos.</p>
+
+<p>Art. 11 – A receita da entidade é constituída por:
+a. Auxílios e subvenções;
+b. Doações e legados;
+c. Renda auferida em seus empreendimentos, caso haja.</p>
+
+<h3 id="capitulo-ii-1">CAPITULO II</h3>
+
+<h3 id="dos-princípios-e-finalidades">DOS PRINCÍPIOS E FINALIDADES</h3>
+
+<p>Art. 12 – O C.A.E.Com tem como princípios e finalidades:
+a. Defender e atender os interesses do corpo discente do curso de Engenharia
+da Computação, seja coletivamente ou individualmente;
+b. Organizar reuniões e certames de caráter cívico, social, cultural e técnico
+visando à complementação e ao aprimoramento da formação universitária.
+c. Realizar intercâmbio e colaboração com entidades congêneres.
+d. Participar, dentro do possível, de todos os encontros promovidos pelo curso
+de Engenharia da Computação, tanto a nível nacional como regional, a fim
+de envolver todos os estudantes numa discussão mais ampla sobre os
+problemas conjunturais brasileiros e do próprio curso.
+e. Concorrer no âmbito de suas atividades para a observância dos direitos
+fundamentais da pessoa humana.
+f. Cooperar com os movimentos populares e entidades democráticas, em
+conformidade com este estatuto, na prestação de serviço a sociedade.
+g. Fazer-se presente em reuniões, eventos relacionados ao movimento
+estudantil.</p>
+
+<p>Parágrafo Único: Ao C.A.E.Com é vedado exercer atividades ou fazer quaisquer
+manifestações sectárias, bem como promover ou apoiar movimentos que não visem a
+obediência dos princípios básicos dos DIRETOS HUMANOS.</p>
+
+<h2 id="título-ii">TÍTULO II</h2>
+
+<h3 id="capítulo-i">CAPÍTULO I</h3>
+
+<h3 id="organização-e-atribuições">ORGANIZAÇÃO E ATRIBUIÇÕES</h3>
+
+<p>Art. 13 – O C.A.E.Com terá suas atividades administradas por uma diretoria composta
+dos seguintes membros:
+a. Presidente;
+b. Vice-presidente;
+c. Secretário;
+d. Tesoureiro;
+e. Diretor de Cultura e Lazer;
+f. Diretor de Tecnologia;
+g. Diretor de Relações Públicas;</p>
+
+<p>Art. 14 - O C.A.E.Com terá um conselho fiscal:
+a. Jurídico;
+b. Administrativa;
+c. Financeiro.</p>
+
+<p>Art. 15 – São atribuições da diretoria:
+a. traçar as diretrizes do plano de ação anual do C.A.E.Com;
+b. reunir-se em caráter ordinário, uma vez por mês;
+c. reunir-se em caráter extraordinário sempre que necessário através da
+convocação do Presidente;
+d. executar ou fazer suas decisões;
+e. zelar pela estrita observância desse regimento;
+f. elaborar anualmente o relatório e a prestação de contas do C.A.E.Com;
+g. orientar a ação estudantil de acordo com este regulamento;
+h. promover Seminários ou Debates sobre temas pertinentes ao curso.</p>
+
+<p>Art. 16 – Compete ao Presidente
+a. Presidir as seções de Assembleia Geral e da Diretoria;
+b. articular as diretorias;
+c. representar o C.A.E.Com em juízo ou fora dele;
+d. estar a par de todas as deliberações ou decisões tomadas no Diretório Central
+dos Estudantes- DCE, mantendo os estudantes do curso informados e
+incentivados para uma prática política e de exercício pela cidadania;
+e. assessorar os representantes discentes, informando-os das decisões do
+colegiado estudantil para que os mesmos passem ao Departamento seus
+posicionamentos;
+f. convocar e presidir as reuniões;
+g. coordenar, superintender e fiscalizar as atividades do C.A.E.Com;</p>
+
+<p>Art. 17 – Compete ao Vice-Presidente
+a. substituir, com as mesmas atribuições do Presidente nos casos de ausência
+ou de impedimento;
+b. auxiliar o Presidente na coordenação das seções da diretoria e da Assembleia
+Geral.</p>
+
+<p>Art. 18 – Compete ao Secretário
+a. Secretariar as Assembleias Suplentes, variável de um a três membros;
+b. Lavrar as Atas das Assembleias Gerais e reuniões da diretoria e assiná-las
+com o Presidente.</p>
+
+<p>Art. 19 – Compete ao Tesoureiro
+a. firmar patrocínio para todos os eventos do curso, diretamente ligados aos
+estudantes;
+b. responder pela guarda dos bens e valores pertencentes ao C.A.E.Com;
+c. assinar com o Presidente os documentos de auxilio e subversões dos poderes
+públicos e de outras origens;
+d. manter em depósito bancário o dinheiro pertencente ao C.A.E.Com;
+e. assinar junto com Presidente os cheques da movimentação das contas
+bancárias, assim como responder por toda a contabilidade do C.A.E.Com;
+f. preparar balancetes semestrais, com relatório e as contas da gestão
+financeira.</p>
+
+<p>Art. 20 – Compete ao Diretor de Cultura e Lazer
+a. coordenar todas as atividades culturais do C.A.E.Com</p>
+<ul>
+  <li>recepção aos calouros;</li>
+  <li>semana de engenharia da computação;</li>
+  <li>encerramento do período e natal.
+b. Promover competições esportivas internas, comunitárias e o intercâmbio
+esportivo com outras entidades;
+c. promover a integração dessas mesmas atividades com as áreas de ensino,
+pesquisa e extensão da UFAM;
+d. Manter sob custódia todo material desportivo pertencente ao C.A.E.Com
+apresentando ao final do mandato o inventário dos pertences do C.A.E.Com</li>
+</ul>
+
+<p>Art. 21 – Compete ao Diretor de Tecnologia
+a. Fiscalizar o acervo da Biblioteca Central da UFAM, inerente à área de
+Engenharia da Computação;
+b. Incentivar a pesquisa no meio acadêmico;
+c. Catalogar dados de interesse técnico-científico.</p>
+
+<p>Art. 22 – Compete ao Diretor de Relações Públicas
+a. coordenar os serviços de divulgação do C.A.E.Com;
+b. coordenar programas publicitários;
+c. coordenar a integração do Curso de Engenharia da Computação e as demais
+instituições de pesquisa na área;
+d. coordenar em consonância com a Diretoria do C.A.E.Com, as atividades de
+intercâmbio e colaboração com entidades congêneres.</p>
+
+<p>Art. 23 - O Conselho Fiscal tem finalidade:
+a. Acompanhar as atividades do C.A.E.Com;
+b. Responder juridicamente pelo C.A.E.Com;
+c. Emitir um relatório no final da gestão com a prestação de contas
+administrativa, jurídica e financeira;</p>
+
+<p>Parágrafo único - O conselho fiscal é independente da Diretoria e é composto por, no
+mínimo, três associados ;</p>
+
+<p>Art. 24 – A Diretoria do C.A.E.Com só poderá reunir-se com maioria de seus
+membros;.</p>
+
+<p>Parágrafo Único – As deliberações da Diretoria serão tomadas pela maioria dos
+membros presentes.</p>
+
+<h3 id="capítulo-ii">CAPÍTULO II</h3>
+
+<h3 id="dos-mandatos-e-substituições">DOS MANDATOS E SUBSTITUIÇÕES</h3>
+
+<p>Art. 25 - O mandato para os cargos da Diretoria Executiva, terá duração de 01 (um)
+ano.</p>
+
+<p>Art. 26 - Perderá o mandato qualquer membro que:
+a. Faltar sem justificativa a quatro reuniões consecutivas ou cinco alternadas
+sem aviso prévio;
+b. Tiver cancelado sua matrícula ou trancado período do curso de Engenharia
+da Computação da UFAM;
+c. Agir de má fé em prejuízo do C.A.E.Com.</p>
+
+<p>Parágrafo único – No caso do inciso II, a deliberação deverá ser tomada por maioria
+absoluta dos votos da Diretoria Executiva.</p>
+
+<p>Art. 27 – No caso de afastamento definitivo de qualquer membro da Diretoria, caberá a
+ela, nomear um substituto para o cargo vago.</p>
+
+<h2 id="título-iii">TÍTULO III</h2>
+
+<h3 id="capítulo-i-1">CAPÍTULO I</h3>
+
+<h3 id="das-eleições">DAS ELEIÇÕES</h3>
+
+<p>Art. 28 – A Diretoria do C.A.E.Com e conselho fiscal será eleita por votação a que
+terão acesso todos os alunos regularmente matriculados no curso de Engenharia da
+Computação da Universidade Federal do Amazonas.</p>
+
+<p>Art. 29 – As eleições serão realizadas 30 (trinta) dias antes do término do mandato da
+Diretoria em exercício.</p>
+
+<p>Parágrafo Único – A campanha eleitoral deve ser suspensa 24 horas antes da
+realização das eleições.</p>
+
+<p>Art. 30 – A mesa receptora de votos será constituída por um presidente e dois
+secretários.</p>
+
+<p>Art. 31 – É elegível apenas o aluno regularmente matriculado no curso de Engenharia
+da Computação da UFAM.</p>
+
+<p>Parágrafo Único – São inelegíveis para quaisquer cargos ou funções, os alunos que
+forem cursar o último período de seu curso;</p>
+
+<p>Art. 32 – Cada chapa, regularmente inscrita, poderá credenciar um fiscal para a mesa
+receptora de votos, inclusive para acompanhar a apuração de votos.</p>
+
+<p>Parágrafo Único – A indicação do fiscal deverá ser feita com o mínimo de 48(quarenta
+e oito) horas de antecedência a comissão eleitoral com os documentos necessários à
+eleição.</p>
+
+<p>Art. 33 – Terminada a eleição, a mesa receptora passará à apuração, devendo o
+Presidente encaminhar ao chefe do departamento, dentro de 24 horas, a cópia da Ata da
+eleição.</p>
+
+<p>Art. 34 – a identificação dos votantes será vista da relação dos alunos regularmente
+matriculados, fornecido pela entidade ou departamento encarregado do controle
+acadêmico.</p>
+
+<p>Art. 35 – A eleição deverá ser realizada dentro do recinto da FT em um só dia, durante a
+totalidade do horário das atividades acadêmicas do curso.</p>
+
+<p>Parágrafo Único – a eleição será feita por votação secreta.</p>
+
+<p>Art. 36 – O mandato dos membros da coordenadoria e conselho fiscal terá inicio com a
+posse solene, com a presença de todos os alunos do curso de Engenharia da
+Computação, no último dia de mandato da Diretoria e conselho vigente;</p>
+
+<h3 id="capítulo-i-2">CAPÍTULO I</h3>
+
+<h3 id="da-assembleia-geral">DA ASSEMBLEIA GERAL</h3>
+
+<p>Art. 37 - Da natureza da Assembleia Geral:
+a. Ordinária;
+b. Extraordinária;
+c. Solene.</p>
+
+<p>Art. 38 – A Assembleia Geral reunir-se-á ordinariamente duas vezes por ano para
+apreciação do relatório da Diretoria e determinar o seu subsequente encaminhamento ao
+C.A.E.Com.</p>
+
+<p>Art. 39 – A Assembleia Geral Ordinária realizar-se-á em primeira convocação
+independente do número de presentes no plenário.</p>
+
+<p>Art. 40 – A Assembleia Extraordinária realizada nos limites da FT, terá caráter público
+a menos que o plenário decida o contrário.</p>
+
+<p>Art. 41 – A convocação da Assembleia Geral Ordinária do C.A.E.Com será feita com
+pelo menos 05(cinco) dias de antecedência.</p>
+
+<p>Art. 42 – A Assembleia Geral reunir-se-á extraordinariamente sempre que a Diretoria
+do C.A.E.Com julgar necessário ou quando for requerida por um terço de seus
+membros.
+a. A Assembleia Geral Extraordinária será realizada em primeira convocação
+quando estiverem presentes 2/3 dos seus membros.
+b. A Assembleia Geral Extraordinária realizar-se-á em segunda convocação
+com a metade de seus membros.</p>
+
+<p>c. Realizar-se-á em terceira convocação, independente do número de membros
+presentes.
+d. Entre cada uma das convocações a que se refere o parágrafo acima, haverá
+um espaço de tempo de 30(trinta) minutos.</p>
+
+<p>Art. 43 – As resoluções das assembleias geral ordinária, extraordinária e solene serão
+aprovadas por maioria simples dos membros presentes.</p>
+
+<p>Art. 44 – As reuniões da assembleia gerais serão conduzidas pelo critério das regras
+parlamentares convencionadas, para assegurar a ordem e o prevalecimento de uma
+legítima democracia.</p>
+
+<p>Art. 45 – As assembleias gerais, ordinárias ou extraordinárias ou solenes, deverão
+realizar-se em horário que melhor se adeque aos acadêmicos;</p>
+
+<p>Art. 46 – As assembleias solenes devem ser de caráter comemorativo ou de
+homenagem com a solicitação da maioria dos associados ou mediante reunião de
+diretoria;</p>
+
+<p>Parágrafo Único: Mediante liberação das aulas por parte do departamento e dos
+docentes fica assegurado o direito de participação de todo acadêmico do Curso de
+Engenharia da Computação nas assembleias convocadas pelo C.A.E.Com.</p>
+
+<h2 id="título-iv">TÍTULO IV</h2>
+
+<h2 id="responsabilidade-e-penalidades">RESPONSABILIDADE E PENALIDADES</h2>
+
+<p>Art. 4 7 – Os estudantes do Curso de Engenharia da Computação não respondem pelas
+obrigações que o C.A.E.Com contrair sem suas devida aprovação.</p>
+
+<p>Art. 48 – Tanto os membros da diretoria como os demais integrantes do corpo discente
+do curso de Engenharia da Computação estarão expostos à penalidade, dependendo da
+gravidade da falta.</p>
+
+<p>Art. 49 – Em qualquer caso o acusado terá o direito de defesa no prazo máximo de
+96(noventa e seis) horas, a partir do momento em que for notificado.</p>
+
+<h2 id="título-v">TÍTULO V</h2>
+
+<h2 id="da-receita-e-da-despesa">DA RECEITA E DA DESPESA</h2>
+
+<p>Art. 50 – São fontes de receita:
+a. contribuição dos alunos a ser decidida em Assembleia Geral;
+b. auxilio dos poderes públicos, incluindo a própria FT;
+c. donativos de participantes;
+d. renda própria proveniente da prestação de serviços ou de qualquer outro
+tipo de iniciativa neste regimento.</p>
+
+<p>Parágrafo Único – O auxílio dos poderes públicos e os donativos particulares serão
+entregues diretamente a Diretoria do C.A.E.Com.</p>
+
+<h2 id="título-vi">TÍTULO VI</h2>
+
+<h2 id="das-disposições-finais-e-transitórias">DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS</h2>
+
+<p>Art. 51 – O presente Estatuto poderá ser modificado por proposta do Presidente, ou de
+1/3, pelo menos, dos membros da Diretoria, aprovado em reunião de Assembleia Geral
+do C.A.E.Com, especialmente convocada através do quórum de 2/3 da totalidade de
+seus membros.</p>
+
+<p>Parágrafo único – Aprovada a proposta da modificação deste estatuto, a mesma deverá
+ser encaminhada à Diretoria do C.A.E.Com para devida aprovação.</p>
+
+<p>Art. 52 – O presente estatuto entrará em vigor após sua aprovação em Assembleia Geral
+comum quórum não inferior a 2/3 dos alunos regularmente matriculados no curso de
+Engenharia da Computação.</p>
+
+<p>Art. 53 – A interpretação do presente Estatuto, bem como a interpretação dos casos
+omissos caberá a Diretoria Executiva, obedecendo às normas da legislação brasileira, os
+costumes e os princípios gerais do direito.</p>
+
+<p>Art. 5 4 – O presente Estatuto entrará em vigor a partir da data de sua aprovação
+convocada para este fim, ficando revogado as disposições encontradas.</p>
+
+<p>Art. 55 – Revogam-se as disposições em contrario.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Aprovado em Assembleia Geral dos Estudantes de Engenharia da Computação
+Manaus/AM, 31 de Maio de 2006.
+</code></pre></div></div>
+
+<blockquote>
+  <p><a href="/assets/files/Estatuto_CAECom-2006.pdf">baixar o pdf</a></p>
+</blockquote>
+:ET

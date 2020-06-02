@@ -4,7 +4,7 @@ tags: [sobre, estatuto]
 comments: false
 layout: single
 toc: true
-toc_label: "índice"
+toc_label: "Índice"
 toc_icon: "cog"
 author_profile: true
 
@@ -12,11 +12,11 @@ author_profile: true
 ---
 {% include law_style.html %}
 
-<table style="width:100%">
+<table style="width:110%">
   <tr>
-    <th><img src="/assets/images/ufam_logo.png" alt="ufam" width="60"/></th>
+    <th><img src="/assets/images/ufam_logo.png" alt="ufam" width="50"/></th>
     <th>UNIVERSIDADE FEDERAL DO AMAZONAS<br>FACULDADE DE TECNOLOGIA<br>CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO</th>
-    <th><img src="/assets/images/caecom-logo.jpeg" alt="caecom" width="100"/></th>
+    <th><img src="/assets/images/logo-CAECOM.png" alt="caecom" width="110"/></th>
   </tr>
  </table>
 
@@ -419,4 +419,3 @@ Manaus/AM, 31 de Maio de 2006.
 ```
 
 > [baixar o pdf](/assets/files/Estatuto_CAECom-2006.pdf)
-

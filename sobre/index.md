@@ -10,6 +10,8 @@ comments: false
 <br>
 O <b>CAECOM-UFAM</b> é uma entidade representativa dos discentes do curso de Engenharia de Computação da Universidade Federal do Amazonas. Localizado na setor Norte do Campus Universitário senador Arthur Virgílio Filho, no terceiro andar do bloco administrativo da Faculdade de Tecnologia.
 
+<center><img src="/assets/images/logo-CAECOM.png" alt="caecom-logo"></center>
+
 <br>
 É gerido por representantes discentes membros dos Colegiado de Engenharia de Computação da UFAM (FT-05), eleitos no âmbito acadêmico a partir de eleições nas quais todos membros do corpo discente do curso tem direito a voto em uma chapa de representantes.
 
