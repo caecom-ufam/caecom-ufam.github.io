@@ -1,5 +1,25 @@
 # main links
 main:
+# Site navigation links
+- title: "Sobre"
+  url: /sobre/
+  icon: fas fa-fw fa-info
+
+- title: "Curso"
+  url: /curso/
+  icon: far fa-fw fa-bookmark
+
+- title: "Diretoria"
+  url: /diretoria/
+  icon: fas fa-fw fa-users
+  
+ - title: "Links"
+  url: /links/
+  icon: far fa-fw fa-bookmark
+
+- title: "Contato"
+  url: /contato/
+  icon: fas fa-fw fa-address-book
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
