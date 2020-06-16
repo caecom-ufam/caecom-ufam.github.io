@@ -14,7 +14,7 @@ main:
 - title: "Links"
   url: /links/
   #icon: far fa-fw fa-bookmark
-- title: "Contato"
+- title: "Ouvidoria"
   url: https://forms.gle/cEpcHsrxjn9QDhwb6
   #icon: fas fa-fw fa-address-book
 
