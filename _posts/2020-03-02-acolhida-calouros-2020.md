@@ -6,7 +6,10 @@ header:
 date: 2020-03-02
 categories:
   - Post
-tags:[acolhida,calouros,"2020"]
+tags:
+  - acolhida
+  - calouros
+  - "2020"
 ---
 
 Hoje ocorreu a **Acolhida dos calouros de 2020**,no auditório Rio Javari, localizado na Faculdade de Tecnologia. É um evento extremamente importante para fortalecer a relação entre os professores dos departamentos e alunos ingressantes. 
