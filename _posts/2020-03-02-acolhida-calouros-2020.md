@@ -1,20 +1,18 @@
 ---
 title: "Acolhida aos calouros de Engenharia da Computação e Elétrica - 2020 "
 excerpt_separator: "<!--more-->"
-image: /assets/images/2020/acolhida/capa-Acolhida-2020.png
+header:
+  image: /assets/images/2020/acolhida/capa-Acolhida-2020.png
 date: 2020-03-02
 categories:
   - Post
-tags:
-  - acolhida
-  - calouros
-  - "2020"
+tags:[acolhida,calouros,"2020"]
 ---
 
 Hoje ocorreu a **Acolhida dos calouros de 2020**,no auditório Rio Javari, localizado na Faculdade de Tecnologia. É um evento extremamente importante para fortalecer a relação entre os professores dos departamentos e alunos ingressantes. 
 
 Foi organizado e realizado em parceria com Centro Acadêmicos de Engenharia da Computação [C.A.E.Com](https://www.instagram.com/caecom_ufam/) e os de Engenharia Elétrica [CAEEL](https://www.instagram.com/caeelufam/), também tivemos apoio dos departamentos e seus respectivos coordenadores de curso: Eletrônica e Computação (DTEC) e Eletricidade (DE), assim como suporte do [CETELI](http://www.ceteli.ufam.edu.br/) e participação da Diretoria da [Faculdade de Tecnologia](https://ft.ufam.edu.br/)
-![organização](assets/images/2020/acolhida/Acolhida-2020-CA.png)
+![organização](/assets/images/2020/acolhida/Acolhida-2020-CA.png)
 
 
 Agradeçamos a todos que ingressantes pela participação no nosso evento de acolhida. Tivemos uma recepção por parte de vocês bem melhor do que esperávamos e queremos parabenizá-los por se empenharem tanto nesse início de jornada. Desejamos a todos vocês períodos letivos maravilhosos dentro da UFAM, estando o C.A.E.Com inteiramente disponível para o que precisarem de ajuda, sendo vocês agora também responsáveis por levar o nosso curso aonde forem. Agradecemos novamente e parabéns!
