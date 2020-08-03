@@ -1,8 +1,6 @@
 ---
 title: "Consulta referente ao retorno das atividades acadêmcias em agosto (2020) "
 excerpt_separator: "<!--more-->"
-header:
-  image: /assets/images/2020/acolhida/capa-Acolhida-2020.png
 date: 2020-08-03
 categories:
   - Post
