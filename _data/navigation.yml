@@ -6,11 +6,11 @@ main:
   #icon: fas fa-fw fa-info
 - title: "Curso"
   url: /curso/
-  sublinks:
+  #sublinks:
    #- title: "Diagrama"
     #  url: /assets/images/diagrama-materias.jpeg
-    - title: Ementas
-      url: /curso/ementas
+    #- title: Ementas
+     # url: /curso/ementas
 
   #icon: far fa-fw fa-bookmark
 - title: "Diretoria"
