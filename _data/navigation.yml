@@ -5,8 +5,10 @@ main:
   url: /sobre/
   #icon: fas fa-fw fa-info
 - title: "Curso"
-  url: /curso/
+  #url: /curso/
   sublinks:
+   - title: "Diagrama"
+      url: /assets/images/diagrama-materias.jpeg
     - title: "Ementas"
       url: /curso/ementas/
 
