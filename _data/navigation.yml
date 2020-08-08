@@ -5,11 +5,11 @@ main:
   url: /sobre/
   #icon: fas fa-fw fa-info
 - title: "Curso"
-  #url: /curso/
-  subfolderitems::
-   - page: "Diagrama"
+  url: /curso/
+  sublinks::
+   - title: "Diagrama"
       url: /assets/images/diagrama-materias.jpeg
-   - page: "Ementas"
+   - title: "Ementas"
       url: /curso/ementas/
 
   #icon: far fa-fw fa-bookmark
