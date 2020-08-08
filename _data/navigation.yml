@@ -6,6 +6,9 @@ main:
   #icon: fas fa-fw fa-info
 - title: "Curso"
   url: /curso/
+  sublinks:
+    - title: "Ementas"
+      url: /curso/ementas/
 
   #icon: far fa-fw fa-bookmark
 - title: "Diretoria"
