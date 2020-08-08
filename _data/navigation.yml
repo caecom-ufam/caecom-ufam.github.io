@@ -9,7 +9,7 @@ main:
   sublinks:
    #- title: "Diagrama"
     #  url: /assets/images/diagrama-materias.jpeg
-   - title: "Ementas"
+    - title: Ementas
       url: /curso/ementas
 
   #icon: far fa-fw fa-bookmark
