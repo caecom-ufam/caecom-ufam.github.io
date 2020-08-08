@@ -6,10 +6,10 @@ main:
   #icon: fas fa-fw fa-info
 - title: "Curso"
   #url: /curso/
-  sublinks:
-   - title: "Diagrama"
+  subfolderitems::
+   - page: "Diagrama"
       url: /assets/images/diagrama-materias.jpeg
-    - title: "Ementas"
+   - page: "Ementas"
       url: /curso/ementas/
 
   #icon: far fa-fw fa-bookmark
