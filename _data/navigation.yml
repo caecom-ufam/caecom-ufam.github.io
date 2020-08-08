@@ -6,7 +6,7 @@ main:
   #icon: fas fa-fw fa-info
 - title: "Curso"
   url: /curso/
-  children:
+  sublinks:
    - title: "Diagrama"
       url: /assets/images/diagrama-materias.jpeg
    - title: "Ementas"
