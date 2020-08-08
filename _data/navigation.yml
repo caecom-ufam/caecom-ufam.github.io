@@ -7,8 +7,8 @@ main:
 - title: "Curso"
   url: /curso/
   sublinks:
-   - title: "Diagrama"
-      url: /assets/images/diagrama-materias.jpeg
+   - title: "Página da FT"
+      url: https://ft.ufam.edu.br/
     - title: "Ementas"
       url: /curso/ementas
   #icon: far fa-fw fa-bookmark
