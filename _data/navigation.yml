@@ -7,9 +7,9 @@ main:
 - title: "Curso"
   url: /curso/
   sublinks:
-   #- title: "Diagrama"
-    #  url: /assets/images/diagrama-materias.jpeg
-    - title: Ementas
+   - title: "Diagrama"
+      url: /assets/images/diagrama-materias.jpeg
+    - title: "Ementas"
       url: /curso/ementas
   #icon: far fa-fw fa-bookmark
 - title: "Diretoria"
