@@ -7,7 +7,7 @@ main:
 - title: "Curso"
   url: /curso/
   sublinks:
-   - title: "Página da FT"
+    - title: "Página da FT"
       url: https://ft.ufam.edu.br/
     - title: "Ementas"
       url: /curso/ementas
