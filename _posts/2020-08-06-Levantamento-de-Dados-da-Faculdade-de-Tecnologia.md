@@ -9,22 +9,24 @@ tags:
   - aulas
   - consulta
 ---
-<script src="https://gist.github.com/rxaviers/7360908.js"></script> 
+
 
 Caros alun*s de Engenharia da Computação como vocês estão? Esperamos que estejam todos bem e se cuidando!
 
 
-A Faculdade de Tecnologia da Universidade Federal do Amazonas, em comunhão com os Centros Acadêmicos, apresenta o formulário de levantamento de dados que visa entender a situação atual de todos os discentes regularmente matriculados da FT no contexto da pandemia do COVID-19.\
-Pedimos encarecidamente que TODOS respondam, é de suma importância a coleta de dados do maior número possível de discentes, a fim de entender melhor a situação no contexto da pandemia.
+A Faculdade de Tecnologia da Universidade Federal do Amazonas, em comunhão com os Centros Acadêmicos, apresenta o formulário de levantamento de dados que visa entender a situação atual de todos os discentes regularmente matriculados da FT no contexto da pandemia do COVID-19.
 
 
-Desde já agradecemos a compreensão e reiteramos: sua resposta é importante.
+**Pedimos encarecidamente que TODOS respondam, é de suma importância a coleta de dados do maior número possível de discentes, a fim de entender melhor a situação no contexto da pandemia.**
+
+
+Desde já agradecemos a compreensão e reiteramos: **sua resposta é importante**.
 
 LINK: [Levantamento de Dados da Faculdade de Tecnologia - FT/UFAM](https://forms.gle/F8J9F2DmpEQ6CXRq6)
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe7Xgt7JWM8fW82p4z5pLnU0fxhuhHaDhVd7NVsEyAxvC8XQg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 
-> Pessoal, sabemos que são muitas pesquisas e formulários e talvez vocês estejam se perguntando por que é tão importante responder tudo que a gente manda :no_mouth:. 
+> Pessoal, sabemos que são muitas pesquisas e formulários e talvez vocês estejam se perguntando por que é tão importante responder tudo que a gente manda :thinking: . 
 
 Primeiro de tudo, é importante porque nesse momento de pandemia, nós do **C.A.E.Com** precisamos ouvir de vocês as demandas e a situação dos alunos do nosso curso para que o nosso departamento tenha noção do que conseguimos fazer juntos.
 
