@@ -9,6 +9,7 @@ tags:
   - aulas
   - consulta
 ---
+<script src="https://gist.github.com/rxaviers/7360908.js"></script> 
 
 Caros alun*s de Engenharia da Computação como vocês estão? Esperamos que estejam todos bem e se cuidando!
 
