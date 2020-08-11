@@ -26,7 +26,7 @@ LINK: [Levantamento de Dados da Faculdade de Tecnologia - FT/UFAM](https://form
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe7Xgt7JWM8fW82p4z5pLnU0fxhuhHaDhVd7NVsEyAxvC8XQg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 
-> Pessoal, sabemos que são muitas pesquisas e formulários e talvez vocês estejam se perguntando por que é tão importante responder tudo que a gente manda :thinking: . 
+> Pessoal, sabemos que são muitas pesquisas e formulários e talvez vocês estejam se perguntando por que é tão importante responder tudo que a gente manda ![](:thinking:) . 
 
 Primeiro de tudo, é importante porque nesse momento de pandemia, nós do **C.A.E.Com** precisamos ouvir de vocês as demandas e a situação dos alunos do nosso curso para que o nosso departamento tenha noção do que conseguimos fazer juntos.
 
@@ -34,7 +34,7 @@ Segundo, é importante porque a diretoria da Faculdade de Tecnologia e os comit�
 
 Por fim, é importante responder ao que a UFAM propõe porque a visão sobre 28 mil alunos pode ser deturpada, então dentro da comunidade inteira, **cada vida e cada realidade deve importar**.
 
- Para que todos nós sejamos ouvidos, todos nós precisamos colaborar. Quanto mais unidos estivermos e mais conhecermos vocês, mais rápidas e melhores serão nossas soluções para as dificuldades atuais. Então o CAECom conta com vocês! :sparkles:
+ Para que todos nós sejamos ouvidos, todos nós precisamos colaborar. Quanto mais unidos estivermos e mais conhecermos vocês, mais rápidas e melhores serão nossas soluções para as dificuldades atuais. Então o CAECom conta com vocês! ![](:sparkles:)
 
 Atenciosamente,
 
