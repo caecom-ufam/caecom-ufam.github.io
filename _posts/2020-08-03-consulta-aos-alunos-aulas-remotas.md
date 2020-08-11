@@ -1,5 +1,5 @@
 ---
-title: "Consulta referente ao retorno das atividades acadêmcias em agosto (2020) "
+title: "Consulta referente ao retorno das atividades acadêmicas em agosto (2020) "
 excerpt_separator: "<!--more-->"
 date: 2020-08-03
 categories:
