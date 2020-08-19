@@ -10,6 +10,17 @@ tags:
   - consulta
 ---
 
+?exists: /html/head/meta[@property="article:published_time"]
+
+
+body:     //article
+title:    $body//h1[1]
+
+@split_parent: //p/img
+
+@remove: //p[has-class("post-meta")]
+@remove: //noscript
+
 
 Caros alun*s de Engenharia da Computação como vocês estão? Esperamos que estejam todos bem e se cuidando!
 
