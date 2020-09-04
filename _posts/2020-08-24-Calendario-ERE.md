@@ -1,13 +1,13 @@
 ---
-title: "Levantamento de Dados da Faculdade de Tecnologia - FT/UFAM "
+title: "Guia e Calendário Acadêmico do Ensino Remoto Emergêncial em 2020 "
 excerpt_separator: "<!--more-->"
-date: 2020-08-06
+date: 2020-08-24
 categories:
   - Post
 tags:
-  - retorno
+  - ERE
   - aulas
-  - consulta
+  - "2020"
 ---
 
 Como vocês sabem, seguiremos um calendário de adesão ao Ensino Remoto Emergencial (ERE), e nós do CAECom elaboramos um resumo para você não perder as principais datas! 
