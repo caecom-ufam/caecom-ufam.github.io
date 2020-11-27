@@ -1,18 +1,18 @@
 # main links
 main:
 # Site navigation links
-- title: "Institucional"
-  url: /sobre/
+#- title: "Institucional"
+#  url: /sobre/
   #icon: fas fa-fw fa-info
-- title: "Curso"
-  url: /curso/
-  sublinks:
-    - title: "Página da FT"
-      url: https://ft.ufam.edu.br/
-    - title: "Ementas"
-      url: /curso/ementas
+#- title: "Curso"
+#  url: /curso/
+#  sublinks:
+#    - title: "Página da FT"
+#      url: https://ft.ufam.edu.br/
+#    - title: "Ementas"
+#      url: /curso/ementas
   #icon: far fa-fw fa-bookmark
-- title: "Diretoria"
+- title: "Gestão"
   url: /diretoria/
   #icon: fas fa-fw fa-users
 - title: "Links"
@@ -21,6 +21,8 @@ main:
 - title: "Ouvidoria"
   url: https://forms.gle/cEpcHsrxjn9QDhwb6
   #icon: fas fa-fw fa-address-book
+ - title: "Webinar"
+  url: /eventos/2020/webinar/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
