@@ -320,8 +320,6 @@ ul.footer-menu li a:hover {
     }
 }
 .coluna{
-  float: center;
-  width: 100%;
 .row::after {
   content: "";
   clear: both;
