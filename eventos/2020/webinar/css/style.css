@@ -319,6 +319,14 @@ ul.footer-menu li a:hover {
         margin-top: 30px;
     }
 }
+.coluna{
+  float: left;
+  width: 33.33%;
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 
 /* iPad Portrait */
