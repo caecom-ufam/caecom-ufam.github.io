@@ -21,7 +21,7 @@ main:
 - title: "Ouvidoria"
   url: https://forms.gle/cEpcHsrxjn9QDhwb6
   #icon: fas fa-fw fa-address-book
- - title: "Webinar"
+- title: "Webinar"
   url: /eventos/2020/webinar/
 
   # - title: "About"
