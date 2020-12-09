@@ -44,6 +44,7 @@ Discentes e TAEs votam em um representante para cada um dos conselhos: CONSAD, C
 
 
 > Quaisquer problemas ou dúvidas podem ser encaminhados para o [e-mail da comissão eleitoral](comissaoeleitoralconselhos@ufam.edu.br)
+>
 >**Acessem sempre a página da comissão para acompanhar as informações.**
 
 
