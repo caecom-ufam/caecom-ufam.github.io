@@ -16,7 +16,7 @@ author_profile: true
   <tr>
     <th><img src="/assets/images/ufam_logo.png" alt="ufam" width="50"/></th>
     <th>UNIVERSIDADE FEDERAL DO AMAZONAS<br>FACULDADE DE TECNOLOGIA<br>CENTRO ACADÊMICO DE ENGENHARIA DA COMPUTAÇÃO</th>
-    <th><img src="/assets/images/logo-CAECOM.png" alt="caecom" width="110"/></th>
+    <th><img src="/assets/images/logo-CAECOM-new.png" alt="caecom" width="110"/></th>
   </tr>
  </table>
 
