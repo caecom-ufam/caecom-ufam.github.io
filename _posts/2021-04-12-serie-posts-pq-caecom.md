@@ -15,7 +15,7 @@ Durante essa semana teremos uma série de posts com o tema: "Porque eu devo faze
 
 ![image](https://user-images.githubusercontent.com/60117467/115064695-3a5a4700-9ebb-11eb-9b85-919bf59b191c.png)
 
-Todos os dias, até às 19h, traremos o assunto de forma leve para conscientizar a comunidade do curso sobre a relevância de ter uma entidade estudantil como um CA.
+Todos os dias entre 12 à 16 de abril de 2021, até às 19h, traremos o assunto de forma leve para conscientizar a comunidade do curso sobre a relevância de ter uma entidade estudantil como um CA.
 
 ## A importância da organização dos estudantes
 
